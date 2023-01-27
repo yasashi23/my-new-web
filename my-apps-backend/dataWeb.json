@@ -1,0 +1,113 @@
+{
+    "nav": {
+        "text" : {
+            "titleComp": "navigasi",
+            "paragaf": ["ABOUT", "PROJECT", "CONTACT", "SKILLS"]
+        },
+        "img": {
+            "titleImg" : "nav",
+            "img":"../img/logo.png"
+        }
+    },
+    "att": {
+        "text" : {
+            "titleComp": "attention",
+            "paragaf": {
+                "title" :"Hi, I'm Yasashi",
+                "des" :"I'm a Web Developer"
+            }
+        }
+    },
+    "about": {
+        "text" : {
+            "titleComp": "About me",
+            "paragaf": "hello, my name is Yasashi, I am a front-end web developer, I am a disciplined person when I study science, my ability to build a website using HTML, CSS, and javascript started from my love of the web, then I deepened my understanding of HTML, CSS, and javascript. until now I have completed several projects, one of which is a Web company project, my focus and expertise in the web is designing and then converting it. The technology that I often use in building websites."
+        },
+        "img": [
+            {
+                "titleImg" : "HTML",
+                "img":"html.svg"
+            },
+            {
+                "titleImg" : "CSS",
+                "img":"css.svg"
+            },
+            {
+                "titleImg" : "Javascript",
+                "img":"js.svg"
+            },
+            {
+                "titleImg" : "Bootstrap",
+                "img":"bootstrap.svg"
+            },
+            {
+                "titleImg" : "Figma",
+                "img":"figma.svg"
+            }
+        ]
+    },
+    "My-oSkill": {
+        "text" : {
+            "titleComp": "My Other Skill",
+            "paragaf": ""
+        },
+        "img": [
+            {
+                "titleImg" : "React Js",
+                "img":"react.svg"
+            },
+            {
+                "titleImg" : "Node Js",
+                "img":"css.svg"
+            },
+            {
+                "titleImg" : "Express Js",
+                "img":"Ejs.svg"
+            },
+            {
+                "titleImg" : "Tailwind css",
+                "img":"tailwind.svg"
+            }
+        ]
+    },
+    "My-project" : {
+        "titleComp" : "My Project",
+        "cont" : [
+            {
+                "img": "img.png",
+                "titleImg": "Company Web",
+                "paragaf": ["HTML", "CSS", "JAVASCRIPT"]
+            }
+        ]
+    },
+    "what" : {
+        "titleComp" : "What Can I do ?",
+        "cont" : [
+            {
+                "img": "res.png",
+                "titleImg": "Responsive Web",
+                "paragaf": "The web will follow the size of devices"
+            },
+            {
+                "img": "desToWeb.png",
+                "titleImg": "Design To Web",
+                "paragaf": "Fixing your problem in website"
+            },
+            {
+                "img": "desToWeb.png",
+                "titleImg": "Design To Web",
+                "paragaf": "Fixing your problem in website"
+            }
+        ]
+    },
+    "getTouch": {
+        "text" : {
+            "titleComp": "Get In Touch",
+            "paragaf": "For business inquiry please send email to yasashibriliantp@gmail.com"
+        }
+    },
+    "button" : {
+        "email" : "EMAIL ME",
+        "visit" : "VISIT WEB"
+    }
+}
